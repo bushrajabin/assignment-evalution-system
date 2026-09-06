@@ -4,3 +4,5 @@ backend/uploads/*
 !backend/uploads/.gitkeep
 dist/
 .DS_Store
+.env
+.env.example
